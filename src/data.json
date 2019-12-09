@@ -1,0 +1,82 @@
+{
+    "title": "This is Soroush Shahnazian",
+    "subtitle": "Web Developer, Open-source enthusiastic",
+    "link": {
+      "stackoverflow": "https://stackoverflow.com/story/soroush1371",
+      "linkedin": "https://www.linkedin.com/in/soroush-shahnazian-04b076b0/",
+      "github": "https://github.com/soroush1371"},
+    "Sections": [
+        {
+        "title":"About",
+        "items":[
+            {
+                "type":"p",
+               "content":"I will have been working as a web developer in Ardakan Glass Company for approximately 2 years by the end of this mounth."
+               
+        }
+      ]
+    },
+    {
+    "title":"Skills",
+        "items":[
+            {
+                
+                "type":"card",
+                  "Content":{
+                    "image":"images/html.png",
+                    "title":"Html"
+                  }
+                }, 
+                {
+                  
+                    "type":"card",
+                    "Content":{
+                      "title":"Css",
+                      "image":"images/css.jpg"}
+        },
+        {
+            "type":"card",
+            "Content":{"title":"jQuery",
+              "image":"images/jquery.jpg"}
+        },
+        {
+            "type":"card",
+            "Content":{"title":"Javascript",
+                      "image":"images/javascript.jpg"}
+        },
+        {
+            "type":"card",
+            "Content":{"title":"React",
+              "image":"images/react.png"}
+            },
+            {
+              "type":"card",
+              "Content":{"title":"SEO",
+                "image":"images/seo.jpg"}
+            }
+    
+    ]
+    
+}
+
+],
+"icons":{
+  "down":
+  "images/down.png"
+
+}}
+
+        
+      
+          
+             
+              
+            
+  
+  
+  
+  
+  
+  
+  
+  
